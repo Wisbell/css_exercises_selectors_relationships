@@ -1,0 +1,9 @@
+header {
+	border: 1px solid black;
+}
+
+.nav > li {
+	display: inline;
+	list-style-type: none;
+	padding-right: 10px;
+}
